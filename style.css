@@ -1,0 +1,40 @@
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: lightblue;
+    text-align: center;
+    margin: 0;
+}
+
+header {
+    background-color: navy;
+    color: white;
+    padding: 20px;
+}
+
+section {
+    background-color: white;
+    margin: 30px auto;
+    padding: 20px;
+    width: 60%;
+    border-radius: 10px;
+}
+
+img {
+    border-radius: 50%;
+}
+
+h2 {
+    color: navy;
+}
+
+ul {
+    display: inline-block;
+    text-align: left;
+}
+
+footer {
+    background-color: navy;
+    color: white;
+    padding: 10px;
+}
